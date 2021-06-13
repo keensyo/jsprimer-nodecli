@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/keensyo/jsprimer-nodecli#readme",
   "dependencies": {
-    "commander": "^5.0.0"
+    "commander": "^5.0.0",
+    "marked": "^1.0.0"
   }
 }
