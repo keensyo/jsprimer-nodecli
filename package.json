@@ -1,0 +1,23 @@
+{
+  "name": "jsprimer-nodecli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keensyo/jsprimer-nodecli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keensyo/jsprimer-nodecli/issues"
+  },
+  "homepage": "https://github.com/keensyo/jsprimer-nodecli#readme",
+  "dependencies": {
+    "commander": "^5.0.0"
+  }
+}
